@@ -1,7 +1,7 @@
 {
 	"name": "fancybox",
 	"version": "2.1.5",
-	"main": ["source/jquery.fancybox.css","source/jquery.fancybox.js", "source/helpers/jquery.fancybox-media.js"],
+	"main": ["source/jquery.fancybox.css","source/jquery.fancybox.js","source/helpers/jquery.fancybox-media.js","source/fancybox_sprite.png"],
 	"ignore": [
     "demo"
   ],
