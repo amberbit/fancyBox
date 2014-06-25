@@ -3,8 +3,6 @@
 	"version": "2.1.5",
 	"main": ["source/jquery.fancybox.css","source/jquery.fancybox.js"],
 	"ignore": [
-    "**/.*",
-    "*.json",
     "demo"
   ],
 	"dependencies": {
